@@ -1,2 +1,5 @@
 # Zava-fraud-detection
-[FlowLens Demo] ML-based fraud detection service — Team: Fraud Detection, Group: Payments
+
+ML-based fraud detection service
+
+Update 1 by James Chen
