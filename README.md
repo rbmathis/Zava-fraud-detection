@@ -2,4 +2,4 @@
 
 ML-based fraud detection service
 
-Update 1 by James Chen
+Update 2 by Aisha Okafor
